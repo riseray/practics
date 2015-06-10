@@ -13,6 +13,8 @@
         fwrite($handler, $fileStrToWrite);
         fclose($handler);
 	}
+
+	fsdafsdafdsa
 //END
 /*
 Write a function that takes a filepath(with filename), a
